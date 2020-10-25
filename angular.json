@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ExerciseWeb"
+    }
+  },
+  "defaultProject": "ExerciseWeb",
+  "cli": {
+    "analytics": false
+  }
 }
